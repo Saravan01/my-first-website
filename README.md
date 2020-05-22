@@ -29,30 +29,23 @@
 <!--Audio video tags-->
 <audio controls>
   <source src="audio.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
 </audio>
 <video width="320" height="240" controls>
   <source src="video.mp4" type="video/mp4">
-Your browser does not support the video tag.
 </video>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/my4yAvsiLqM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <table border="1">
-	<thead>
 		<tr>
 			<th>Name</th>
 			<th>Phone</th>
 			<th>Gmail</th>
 		</tr>
-		
-	</thead>
-	<tbody>
 		<tr>
 			<td>My website</td>
 			<td>9999999999</td>
 			<td>gmail</td>
 		</tr>
-	</tbody>
 </table>
 <br>
 <!--forms-->
